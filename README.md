@@ -2,8 +2,9 @@
 - 👀 I’m interested in Web Development / Web Designing and Software Development
 - 🌱 I’m currently learning Full Stack MERN
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:puneethsdevadiga@gmail.com / devadigapuneeth143@gmail.com 
-                      LinkedIn:linkedin.com/in/puneeth-devadiga-a760a2254
+- 📫 How to reach me @
+- email:puneethsdevadiga@gmail.com / devadigapuneeth143@gmail.com
+- LinkedIn:linkedin.com/in/puneeth-devadiga-a760a2254
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
